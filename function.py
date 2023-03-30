@@ -1,3 +1,4 @@
+# 関数の名前は予約語でない限り自由につけられる
 def function(x):
     y = 3 * x + 1
     return y
